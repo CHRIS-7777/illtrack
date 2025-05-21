@@ -6,7 +6,7 @@ import 'package:string_similarity/string_similarity.dart';
 void main() {
   runApp(MentalHealthApp());
 }
-
+//class function declared
 class MentalHealthApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
