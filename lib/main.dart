@@ -18,7 +18,7 @@ class MentalHealthApp extends StatelessWidget {
     );
   }
 }
-
+//Homelage class
 class MentalHealthHomePage extends StatefulWidget {
   @override
   _MentalHealthHomePageState createState() => _MentalHealthHomePageState();
